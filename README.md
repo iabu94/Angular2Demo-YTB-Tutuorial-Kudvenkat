@@ -14,3 +14,4 @@ Angular2Demo from youtube Tutuorial by Kudvenkat
 
 6. Angular 2 nested components
 
+7. Styling angular 2 components
