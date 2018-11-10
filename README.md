@@ -15,3 +15,9 @@ Angular2Demo from youtube Tutuorial by Kudvenkat
 6. Angular 2 nested components
 
 7. Styling angular 2 components
+
+8. Angular interpolation
+
+9 Property binding in Angular 2
+
+10 html attribute vs dom property
